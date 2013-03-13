@@ -1,0 +1,20 @@
+<root>
+    <item name='javax.ws.rs.ext.MessageBodyWriter boolean isWriteable(java.lang.Class&lt;?&gt;, java.lang.reflect.Type, java.lang.annotation.Annotation[], javax.ws.rs.core.MediaType)'>
+        <annotation name='jet.runtime.typeinfo.KotlinSignature'>
+            <val name="value"
+                 val="&quot;fun isWriteable(p0 : Class&lt;out Any&gt;, p1 : Type, p2 : Array&lt;out Annotation&gt;, p3 : MediaType) : Boolean&quot;"/>
+        </annotation>
+    </item>
+    <item name='javax.ws.rs.ext.MessageBodyWriter long getSize(T, java.lang.Class&lt;?&gt;, java.lang.reflect.Type, java.lang.annotation.Annotation[], javax.ws.rs.core.MediaType)'>
+        <annotation name='jet.runtime.typeinfo.KotlinSignature'>
+            <val name="value"
+                 val="&quot;fun getSize(p0 : T, p1 : Class&lt;out Any&gt;, p2 : Type, p3 : Array&lt;out Annotation&gt;, p4 : MediaType) : Long&quot;"/>
+        </annotation>
+    </item>
+    <item name='javax.ws.rs.ext.MessageBodyWriter void writeTo(T, java.lang.Class&lt;?&gt;, java.lang.reflect.Type, java.lang.annotation.Annotation[], javax.ws.rs.core.MediaType, javax.ws.rs.core.MultivaluedMap&lt;java.lang.String,java.lang.Object&gt;, java.io.OutputStream)'>
+        <annotation name='jet.runtime.typeinfo.KotlinSignature'>
+            <val name="value"
+                 val="&quot;fun writeTo(p0 : T, p1 : Class&lt;out Any&gt;, p2 : Type, p3 : Array&lt;out Annotation&gt;, p4 : MediaType, p5 : MultivaluedMap&lt;String, Any&gt;, p6 : OutputStream) : Unit&quot;"/>
+        </annotation>
+    </item>
+</root>
